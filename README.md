@@ -57,4 +57,4 @@ cd TGDK_AI_Telecom
 pip install -r requirements.txt
 
 
-https://www.patreon.com/c/TGDKBFE?just_launched=true
+https://www.patreon.com/c/TGDKBFE
