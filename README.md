@@ -55,3 +55,6 @@ All software under this repository is provided under the **TGDK Open Source Lice
 git clone https://github.com/sean-tichenor/TGDK_AI_Telecom.git
 cd TGDK_AI_Telecom
 pip install -r requirements.txt
+
+
+https://www.patreon.com/c/TGDKBFE?just_launched=true
