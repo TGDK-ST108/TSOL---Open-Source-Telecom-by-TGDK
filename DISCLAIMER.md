@@ -63,6 +63,10 @@ Use of the Software indicates acknowledgment of the TSOL/BFE License terms and c
 
 Any unauthorized use or infringement of intellectual property rights will be subject to prosecution under applicable U.S. federal laws.
 
+Users of this Software, including but not limited to the Telecom Reporting Agent, assume sole responsibility for adhering to all mandatory reporting requirements, federal telecommunications regulations, and applicable cybersecurity laws. TGDK, OliviaAI, and Sean Tichenor explicitly disclaim responsibility and liability arising from any user's misuse, non-compliance, refusal to implement, or improper implementation of the Software or its reporting components.
+
+Misuse, unauthorized alteration, bypassing, refusal to implement mandatory reporting modules, or failure to comply with applicable federal telecommunications regulations may result in legal consequences under applicable federal laws. TGDK explicitly disclaims liability for such actions.
+
 For additional inquiries or authorization requests, please contact:
 
 - TGDK Licensing Authority  
