@@ -1,0 +1,32 @@
+@startuml
+title FPMT Solano Framework - Workflow
+
+actor Donor
+actor Monastery
+actor Admin
+
+rectangle "Donation Processing" {
+    Donor -> System: Submit Donation
+    System -> Ledger: Record Transaction
+    System -> Admin: Notify Donation Received
+}
+
+rectangle "Funding Request System" {
+    Monastery -> System: Submit Request
+    System -> Admin: Review & Approve Request
+    Admin -> System: Approve Request
+    System -> Ledger: Allocate Funds
+}
+
+rectangle "Resource Distribution" {
+    System -> Monastery: Transfer Funds/Supplies
+    System -> Ledger: Record Provision
+}
+
+rectangle "Member Evaluation" {
+    NewMember -> System: Submit Profile
+    System -> Admin: Review Social Score
+    Admin -> System: Approve or Reject Membership
+}
+
+@enduml
